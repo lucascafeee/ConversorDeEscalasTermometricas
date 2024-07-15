@@ -1,0 +1,1 @@
+A thermometric scale converter developed in Golang. This project allowed me to practice my skills in Golang programming and learn more about temperature scales. By developing this converter, I was able to convert temperature values between different scales, such as Celsius, Fahrenheit, and Kelvin.
